@@ -14,7 +14,7 @@ The software has been prepared with a 100% accuracy, 0.0025 Loss result, superio
 
 Emirhan BULUT
 
-Senior Artificial Intelligence Engineer
+Senior Artificial Intelligence Engineer - Senior  Computer Vision Engineer
 
 ##**The coding language used:**
 
@@ -36,9 +36,7 @@ Senior Artificial Intelligence Engineer
 
 `Os`
 
-<img class="fit-picture"
-     src="https://raw.githubusercontent.com/emirhanai/Planets-and-Moons-Dataset-AI-in-Space-/main/Planets%20and%20Moons%20Dataset%20-%20AI%20in%20Space%20%F0%9F%8C%8C%20%F0%9F%9B%B0%20%E2%98%84%20%F0%9F%94%AD.png"
-     alt="Planets and Moons Dataset - AI in Space 🌌 🛰 ☄ 🔭 - Emirhan BULUT">
+<img src="https://raw.githubusercontent.com/emirhanai/Planets-and-Moons-Dataset-AI-in-Space-/main/Planets%20and%20Moons%20Dataset%20-%20AI%20in%20Space%20%F0%9F%8C%8C%20%F0%9F%9B%B0%20%E2%98%84%20%F0%9F%94%AD.png" alt="Planets and Moons Dataset - AI in Space 🌌 🛰 ☄ 🔭 - Emirhan BULUT">
      
 ### **Developer Information:**
 
@@ -57,3 +55,18 @@ Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
 [Kaggle]: https://www.kaggle.com/emirhanai
 
 [OfficialWebSite]: https://www.emirhanbulut.com.tr
+
+## Citations
+
+If you use the OpenImages dataset in your work, please cite it as:
+
+APA-style citation: "Emirhan BULUT. Planets and Moons Dataset - AI in Space 🌌 🛰 ☄ 🔭 : A public dataset for large-scale multi-label and multi-class image classification, 2021. Available from https://github.com/emirhanai/Planets-and-Moons-Dataset-AI-in-Space and https://www.kaggle.com/datasets/emirhanai/planets-and-moons-dataset-ai-in-space".
+
+```
+@article{Planets and Moons Dataset - AI in Space 🌌 🛰 ☄ 🔭,
+  title={Planets and Moons Dataset - AI in Space 🌌 🛰 ☄ 🔭 : A public dataset for large-scale multi-label and multi-class image classification},
+  author={Emirhan BULUT},
+  journal={Dataset available from https://github.com/emirhanai/Planets-and-Moons-Dataset-AI-in-Space and https://www.kaggle.com/datasets/emirhanai/planets-and-moons-dataset-ai-in-space},
+  year={20}
+}
+```
